@@ -1,0 +1,24 @@
+html{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px ;
+    background-color: lightgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: blanchedalmond;
+}
+ nav{
+    background-color: blanchedalmond;
+    border: 3px solid olivedrab;
+ }
+
+.container {
+    background-color: blanchedalmond;
+    border: 3px solid olivedrab;
+    order: 3 ;
+    align-self: auto;
+    ;
+
+}
