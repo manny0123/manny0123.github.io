@@ -9,9 +9,11 @@ html{
 header{
     background-color: blanchedalmond;
 }
+
  nav{
     background-color: blanchedalmond;
     border: 3px solid olivedrab;
+    text-align: center;
  }
 
 .container {
@@ -19,6 +21,4 @@ header{
     border: 3px solid olivedrab;
     order: 3 ;
     align-self: auto;
-    ;
-
 }
