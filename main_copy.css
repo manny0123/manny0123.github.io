@@ -13,13 +13,12 @@ header{
  nav{
     background-color: blanchedalmond;
     border: 3px solid olivedrab;
-    color: blue;
     text-align: center;
  }
 
 .container {
     background-color: blanchedalmond;
-    border: 3px solid red;
+    border: 3px solid olivedrab;
     order: 3 ;
     align-self: auto;
 }
